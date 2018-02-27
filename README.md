@@ -1,0 +1,1 @@
+This microblog is being built alongside Miguel Grinberg's "New and Improved Flask Mega-Tutorial". Please visit (https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) and (https://www.kickstarter.com/projects/1124925856/the-new-and-improved-flask-mega-tutorial) to support the project!
